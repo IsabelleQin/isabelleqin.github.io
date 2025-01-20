@@ -2,7 +2,7 @@
 
 /* Change the color of the header background */
 .site-header {
-  background-color: #4CAF50; /* Example color */
+  background-color: #95caff; /* Example color */
   color: white;
 }
 
@@ -19,6 +19,6 @@ footer {
 
 /* Customize the main content area */
 .main-content {
-  background-color: #f4f4f4;
+  background-color: #95caff;
   color: #333;
 }
