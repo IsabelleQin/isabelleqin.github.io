@@ -1,0 +1,24 @@
+/* assets/css/custom.css */
+
+/* Change the color of the header background */
+.site-header {
+  background-color: #4CAF50; /* Example color */
+  color: white;
+}
+
+/* Change the text color in the header */
+.site-header a {
+  color: white;
+}
+
+/* Change the background color of the footer */
+footer {
+  background-color: #333;
+  color: white;
+}
+
+/* Customize the main content area */
+.main-content {
+  background-color: #f4f4f4;
+  color: #333;
+}
