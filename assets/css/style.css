@@ -1,5 +1,26 @@
----
----
+/* Header styling */
+header {
+  background-color: #4CAF50; /* Change to your desired background color */
+  color: white; /* Change text color to white or another color */
+  padding: 20px; /* Adjust padding for space */
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Styling for the header image */
+header .header-image {
+  width: 50px; /* Adjust the width as per your image size */
+  height: auto;
+  margin-right: 20px; /* Space between the image and text */
+}
+
+h1 {
+  margin: 0;
+  font-size: 36px; /* Adjust the font size */
+}
+
 
 .buttons.github {
     display: inline-block;
