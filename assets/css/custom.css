@@ -1,7 +1,7 @@
 /* assets/css/custom.css */
 
 /* Change the color of the header background */
-.site-header {
+.header {
   background-color: #95caff; /* Example color */
   color: white;
 }
