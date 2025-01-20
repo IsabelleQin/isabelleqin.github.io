@@ -54,3 +54,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        
+navigation:
+  - text: Home
+    url: /
+  - text: Publications
+    url: /publicaitons/
