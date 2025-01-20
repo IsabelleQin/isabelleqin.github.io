@@ -1,3 +1,2 @@
-# Welcome to My Site
+# Qiaolin (Isabelle) Qin
 
-This is my GitHub Pages site using a Jekyll theme.
