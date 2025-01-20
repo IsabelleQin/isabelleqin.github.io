@@ -1,13 +1,4 @@
-/* Custom Header Background Color */
-header {
-  background-color: #4CAF50; /* Change this to the desired background color */
-  color: white; /* Change the text color */
-}
 
-/* Optional: Change text color in header */
-header h1, header h2 {
-  color: white; /* Text color for headers */
-}
 
 .buttons.github {
     display: inline-block;
