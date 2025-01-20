@@ -7,3 +7,5 @@ layout: default
 ### Hi! You found me! 👀✨
 
 ## News
+
+Visit our lab: [Moose Lab](https://moose.polymtl.ca/).
