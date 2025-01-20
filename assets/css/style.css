@@ -30,7 +30,7 @@ body {
   padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
-	color: #7297b2;
+	color: #4c0022;
 	background-color: #fed4e7;
 	margin: 0;
 	line-height: 1.8em;
@@ -39,7 +39,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#232323;
+  color:#4c0022;
   margin:36px 0 10px;
 }
 
@@ -197,7 +197,7 @@ th {
 	font-size: 18px;
 	font-weight: normal;
   padding: 10px;
-  background: #232323;
+  background: #4c0022;
   color: #FDFEFB;
  }
 
@@ -216,7 +216,7 @@ td {
 /* Header */
 
 header {
-	background-color: #171717;
+	background-color: #0c4b7f;
 	color: #FDFDFB;
   width:170px;
   float:left;
