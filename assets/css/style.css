@@ -1,7 +1,21 @@
 ---
 ---
 
-@import 'jekyll-theme-dinky';
+.buttons.github {
+    display: inline-block;
+    padding: 8px 12px;
+    color: #fff;
+    background-color: #5a9;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+.buttons.github::before {
+    content: "🐙"; /* Book icon emoji */
+    margin-right: 8px;
+}
+
 
 .buttons.book {
     display: inline-block;
