@@ -11,19 +11,13 @@
   color: white;
 }
 
-.buttons.book {
-    display: inline-block;
-    padding: 8px 12px;
-    color: #fff;
-    background-color: #5a9;
-    text-decoration: none;
-    border-radius: 4px;
-    font-size: 1em;
-}
-
-.buttons.book::before {
-    content: "📖"; /* Book icon emoji */
-    margin-right: 8px;
+a.buttons {
+	-webkit-font-smoothing: antialiased;
+	background: 📖;
+	font-weight: normal;
+	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
+	padding: 2px 2px 2px 22px;
+	height: 30px;
 }
 
 /* Customize the main content area */
