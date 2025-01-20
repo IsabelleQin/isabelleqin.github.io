@@ -26,15 +26,8 @@
     margin-right: 8px;
 }
 
-
-/* Change the background color of the footer */
-footer {
-  background-color: #333;
-  color: white;
-}
-
 /* Customize the main content area */
-.main-content {
+.body {
   background-color: #95caff;
   color: #333;
 }
