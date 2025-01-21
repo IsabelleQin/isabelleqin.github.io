@@ -218,7 +218,7 @@ td {
 header {
 	background-color: #0e4f27;
 	color: #FDFDFB;
-  width:200px;
+  width:170px;
   float:left;
   position:fixed;
 	border: 1px solid #000;
@@ -320,7 +320,7 @@ a.buttons:hover {
 
 section {
   width:650px;
-  float:center;
+  float:right;
   padding-bottom:50px;
 }
 
