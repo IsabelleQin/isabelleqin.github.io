@@ -31,7 +31,7 @@ body {
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #420e39;
-	background-color: #fed4e7;
+	background-color: #dbcff3;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -197,7 +197,7 @@ th {
 	font-size: 18px;
 	font-weight: normal;
   padding: 10px;
-  background: #4c0022;
+  background: #589c55;
   color: #FDFEFB;
  }
 
@@ -216,7 +216,7 @@ td {
 /* Header */
 
 header {
-	background-color: #69b085;
+	background-color: #0e4f27;
 	color: #FDFDFB;
   width:170px;
   float:left;
@@ -301,7 +301,6 @@ header li:hover {
 a.buttons {
 	-webkit-font-smoothing: antialiased;
 	font-weight: normal;
-	background: #8e7cc3;
 	text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
 	padding: 2px 2px 2px 22px;
 	height: 30px;
