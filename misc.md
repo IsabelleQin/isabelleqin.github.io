@@ -6,6 +6,7 @@ permalink: /misc/
 # Teaching
 
 Teaching Assistant for LOG6305: Techniques avancées de test du logiciel (2025 Winter)
+
 (incoming) Lecturer for LOG6309E: Intelligent DevOps of Large-Scale Software Systems (2025 Fall)
 
 # Program Committee Member
