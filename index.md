@@ -12,4 +12,6 @@ layout: default
 
 #### Visit our lab: [MOOSE Lab](https://moose.polymtl.ca/).
 
+#### Find me on [LinkedIn](https://www.linkedin.com/in/isabelleqin1213). 
+
 #### Contact me: qiaolin.qin@polymtl.ca
