@@ -16,3 +16,6 @@ The International Conference on Evaluation and Assessment in Software Engineerin
 # Journal Reviewer
 
 IEEE Transactions on Software Engineering (TSE)
+
+
+Information and Software Technology (IST)
