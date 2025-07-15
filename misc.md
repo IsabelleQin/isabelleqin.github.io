@@ -13,6 +13,8 @@ Teaching Assistant for LOG6305: Techniques avancées de test du logiciel (2025 W
 
 The International Conference on Evaluation and Assessment in Software Engineering (EASE), AI Models / Data track, 2025
 
+The International Conference on Technical Debt (TechDebt),  Technical Papers track, 2026
+
 # Journal Reviewer
 
 IEEE Transactions on Software Engineering (TSE)
