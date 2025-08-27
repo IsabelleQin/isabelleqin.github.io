@@ -7,7 +7,7 @@ permalink: /misc/
 
 Teaching Assistant for LOG6305: Techniques avancées de test du logiciel (2025 Winter)
 
-(incoming) Lecturer for LOG8371E: Software Quality Engineering (2025 Fall)
+Lecturer for LOG8371E: Software Quality Engineering (2025 Fall)
 
 # Program Committee Member
 
