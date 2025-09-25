@@ -14,11 +14,12 @@ export const siteConfig = {
   experience: [
     {
       title: "2025",
-      dateRange: "Jan 2022 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Q. Qin, R. Aghili, H. Li, and E. Merlo, “Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework,” in Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (accepted), 2025. [Link](https://arxiv.org/abs/2412.05254).",
+        "G. Caumartin, Q. Qin, H. Li, and D. Costa, “Exploring the Potential of Llama Models in Automated Code Refinement: A Replication Study,” in Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (accepted), 2025. [Link](https://arxiv.org/abs/2412.02789).",
+        "Q. Qin, H. Li, E. Merlo, and M. Lamothe, “Automated, Unsupervised, and Auto-parameterized Inference of Data Patterns and Anomaly Detection,” in Proceedings of the 47th International Conference on Software Engineering (ICSE) (accepted), 2025. [Link](https://arxiv.org/abs/2412.05240).",
+        "Q. Qin, B. Djian, E. Merlo, H. Li, S. Gambs, “Representation-Based Fairness Evaluation and Bias Correction Robustness Assessment in Neural Networks,” Information and Software Technology (IST) (accepted), vol 188, 2025. [Link](https://www.sciencedirect.com/science/article/pii/S0950584925002150).",
+        "Q. Qin and E. Merlo, “Prune Bias From the Root: Bias Removal and Fairness Estimation by Pruning Sensitive Attributes in Pre-trained DNN Models,” Information and Software Technology (IST) (accepted), vol 188, 2025. "
       ],
     },
     {
@@ -31,10 +32,9 @@ export const siteConfig = {
   ],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Teaching",
       description:
         "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
