@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. My research interests include log analysis, AI fairness, and AI explainability. Basically I do all sorts of research as long as they are beneficial to the software engineering community:-))",
-  skills: ["Python", "C/C++", "Matlab", "Java"],
+  misc: [{ name: "Visit Our Lab", link: "https://moose.polymtl.ca/" }],
   experience: [
     {
       title: "2025",
