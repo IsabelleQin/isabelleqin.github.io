@@ -68,23 +68,17 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Polytechnique Montreal, Montreal, Canada",
+      degree: "PhD in Software Engineering",
+      dateRange: "2023 - ",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Southeast University, Nanjing, China",
+      degree: "Bachelor of Engineering in Artificial Intelligence",
+      dateRange: "2019 - 2023",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
       ],
     },
   ],
