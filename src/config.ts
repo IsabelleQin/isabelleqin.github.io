@@ -82,11 +82,15 @@ export const siteConfig = {
       school: "Polytechnique Montreal, Montreal, Canada",
       degree: "PhD in Software Engineering",
       dateRange: "2023 - ",
+      achievements: [
+      ],
     },
     {
       school: "Southeast University, Nanjing, China",
       degree: "Bachelor of Engineering in Artificial Intelligence",
       dateRange: "2019 - 2023",
+      achievements: [
+      ],
     },
   ],
 };
