@@ -26,7 +26,7 @@ export const siteConfig = {
       title: "2024",
       bullets: [
         "Q. Qin, H. Li, E. Merlo, “Wrangling Data Issues to be Wran- gled: Literature Review, Taxonomy, and Industry Case Study,” arXiv preprint, 2024.",
-        "R. Aghili, Q. Qin, H. Li, and F. Khomh, “Understanding Web Application Workloads and Their Applications: Systematic Lit- erature Review and Characterization,” in Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME) (accepted), 2024.",
+        "R. Aghili, Q. Qin, H. Li, and F. Khomh, “Understanding Web Application Workloads and Their Applications: Systematic Literature Review and Characterization,” in Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME) (accepted), 2024.",
       ],
     },
   ],
@@ -35,21 +35,21 @@ export const siteConfig = {
       name: "Teaching",
       description:
         "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      skills: ["React", "Node.js", "AWS"],
+      bullet: ["React", "Node.js", "AWS"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
       description:
         "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      bullet: ["React", "Node.js", "AWS"],
     },
     {
       name: "ExtensionKit",
       description:
         "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      bullet: ["React", "Node.js", "AWS"],
     },
   ],
   education: [
