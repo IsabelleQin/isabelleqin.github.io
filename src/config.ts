@@ -33,23 +33,22 @@ export const siteConfig = {
   projects: [
     {
       name: "Teaching",
-      description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      bullet: ["React", "Node.js", "AWS"],
+      bullet: ["Lecturer for LOG8371E: Software Quality Engineering (2025 Fall)",
+               "Teaching Assistant for LOG6305: Techniques avancées de test du logiciel (2025 Winter)", ],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      bullet: ["React", "Node.js", "AWS"],
+      name: "Program Committee Member",
+      bullet: ["The International Conference on Evaluation and Assessment in Software Engineering (EASE), Committee Member in AI Models / Data track, 2025",
+               "The International Conference on Collaborative Advances in Software and Computing (CASCON), Committee Member in Artifacts track, 2025",
+               "The International Conference on Technical Debt (TechDebt), Committee Member in Technical Papers track, 2026",
+               "The International Workshop on Fairness in Software Systems (Fairness), Journal-First Co-Chair, 2026"
+              ],
     },
     {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      bullet: ["React", "Node.js", "AWS"],
+      name: "Journal Reviewer",
+      bullet: ["IEEE Transactions on Software Engineering (TSE)",
+               "Information and Software Technology (IST)",
+              ],
     },
   ],
   education: [
