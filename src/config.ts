@@ -1,18 +1,17 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Qiaolin (Isabelle) Qin",
+  title: "Ph.D. student at Polytechnique Montreal",
+  description: "Isablle's main page",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "qiaolin.qin@etud.polymtl.ca",
+    linkedin: "https://www.linkedin.com/in/isabelleqin1213/",
+    github: "https://github.com/IsabelleQin",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
-  projects: [
+    "I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. My research interests include log analysis, AI fairness, and AI explainability. Basically I do all sorts of research as long as they are beneficial to the software engineering community:-))",
+  skills: ["Python", "C/C++", "Matlab", "Java"],
+  publications: [
     {
       name: "AI Dev Roundup Newsletter",
       description:
