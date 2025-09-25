@@ -16,6 +16,7 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
         <p class="text-base text-gray-600">
           {siteConfig.title}
         </p>
+
         <div class="flex gap-x-6">
           <a
             href={`mailto:${siteConfig.social.email}`}
@@ -23,10 +24,9 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
             class="text-gray-600 transition-colors duration-300 hover:text-[var(--accent-color)]"
             style={`--accent-color: ${siteConfig.accentColor}`}
           >
-            <!-- email icon -->
-            <svg ...> ... </svg>
+            <!-- Email icon SVG -->
           </a>
-
+        
           <a
             href={siteConfig.social.linkedin}
             target="_blank"
@@ -35,10 +35,9 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
             class="text-gray-600 transition-colors duration-300 hover:text-[var(--accent-color)]"
             style={`--accent-color: ${siteConfig.accentColor}`}
           >
-            <!-- linkedin icon -->
-            <svg ...> ... </svg>
+            <!-- LinkedIn icon SVG -->
           </a>
-
+        
           <a
             href={siteConfig.social.github}
             target="_blank"
@@ -47,10 +46,11 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
             class="text-gray-600 transition-colors duration-300 hover:text-[var(--accent-color)]"
             style={`--accent-color: ${siteConfig.accentColor}`}
           >
-            <!-- github icon -->
-            <svg ...> ... </svg>
+            <!-- GitHub icon SVG -->
           </a>
         </div>
+
+        
       </div>
 
       <div class="hidden md:block flex flex-col md:items-end gap-4">
