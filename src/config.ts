@@ -50,6 +50,18 @@ export const siteConfig = {
                "Information and Software Technology (IST)",
               ],
     },
+    {
+      name: "Volunteering",
+      bullet: ["Software Engineering for Machine Learning Applications Symposium (SEMLA), 2024",
+               "The IEEE/ACM International Conference on Software Engineering (ICSE), 2025",
+              ],
+    },
+    {
+      name: "Industrial Experience",
+      bullet: ["Air Canada, Data Analyst Intern (Sep. 2023 – Aug. 2024)",
+               "Intel Joint Research Institute on Intelligent Edge Computing, Computer Vision Algorithm Engineer Intern (Aug. 2022 – Apr. 2023)",
+              ],
+    },
   ],
   education: [
     {
