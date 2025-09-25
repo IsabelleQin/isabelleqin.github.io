@@ -56,8 +56,10 @@ export const siteConfig = {
     {
       name: "Journal Reviewer",
       bullets: [
-        { text: "IEEE Transactions on Software Engineering (TSE)"},
-        { text: "Information and Software Technology (IST)" }
+        { text: "IEEE Transactions on Software Engineering (TSE)",
+        link: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32"},
+        { text: "Information and Software Technology (IST)", 
+        link: "https://www.sciencedirect.com/journal/information-and-software-technology"}
       ]
     },
     {
@@ -80,15 +82,11 @@ export const siteConfig = {
       school: "Polytechnique Montreal, Montreal, Canada",
       degree: "PhD in Software Engineering",
       dateRange: "2023 - ",
-      achievements: [
-      ],
     },
     {
       school: "Southeast University, Nanjing, China",
       degree: "Bachelor of Engineering in Artificial Intelligence",
       dateRange: "2019 - 2023",
-      achievements: [
-      ],
     },
   ],
 };
