@@ -33,8 +33,10 @@ export const siteConfig = {
   projects: [
     {
       name: "Teaching",
-      bullet: ["Lecturer for LOG8371E: Software Quality Engineering (2025 Fall)",
-               "Teaching Assistant for LOG6305: Techniques avancées de test du logiciel (2025 Winter)", ],
+      bullets: [
+        { text: "Lecturer for LOG8371E: Software Quality Engineering (2025 Fall)"},
+        { text: "Teaching Assistant for LOG6305: Techniques avancées de test du logiciel (2025 Winter)" }
+      ]
     },
     {
       name: "Program Committee Member",
