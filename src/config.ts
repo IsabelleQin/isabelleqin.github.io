@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Qiaolin (Isabelle) Qin",
   title: "Ph.D. student at Polytechnique Montreal",
   description: "Isablle's main page",
-  accentColor: "#1d4ed8",
+  accentColor: "#f576d5",
   social: {
     email: "qiaolin.qin@etud.polymtl.ca",
     linkedin: "https://www.linkedin.com/in/isabelleqin1213/",
