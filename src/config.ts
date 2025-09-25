@@ -11,6 +11,24 @@ export const siteConfig = {
   aboutMe:
     "I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. My research interests include log analysis, AI fairness, and AI explainability. Basically I do all sorts of research as long as they are beneficial to the software engineering community:-))",
   skills: ["Python", "C/C++", "Matlab", "Java"],
+  experience: [
+    {
+      title: "2025",
+      dateRange: "Jan 2022 - Present",
+      bullets: [
+        "Led development of microservices architecture serving 1M+ users",
+        "Reduced API response times by 40% through optimization",
+        "Mentored team of 5 junior developers",
+      ],
+    },
+    {
+      title: "2024",
+      bullets: [
+        "Q. Qin, H. Li, E. Merlo, “Wrangling Data Issues to be Wran- gled: Literature Review, Taxonomy, and Industry Case Study,” arXiv preprint, 2024.",
+        "R. Aghili, Q. Qin, H. Li, and F. Khomh, “Understanding Web Application Workloads and Their Applications: Systematic Lit- erature Review and Characterization,” in Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME) (accepted), 2024.",
+      ],
+    },
+  ],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -32,38 +50,6 @@ export const siteConfig = {
         "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
       link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
-    },
-  ],
-  experience: [
-    {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
-      bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
     },
   ],
   education: [
