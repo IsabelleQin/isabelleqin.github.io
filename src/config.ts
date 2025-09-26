@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/IsabelleQin",
   },
   aboutMe:
-    "I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. My research interests include log analysis, AI fairness, and AI explainability. Basically I do all sorts of research as long as they are beneficial to the software engineering community:-))",
+    "I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. My research interests include log analysis, AI fairness, and AI explainability. Basically, I do all sorts of research as long as they are beneficial to the software engineering community:-))\nI also train for bodybuilding and powerlifting. Currently I am trying to understand how to play POE (it is really complex).",
   misc: [{ name: "Visit Our Lab", link: "https://moose.polymtl.ca/" },
         { name: "My Google Scholar", link: "https://scholar.google.com/citations?user=hzQSPFUAAAAJ&hl=en" }],
   experience: [
@@ -48,10 +48,10 @@ export const siteConfig = {
     {
       name: "Program Committee Member",
       bullets: [
-        { text: "The International Conference on Evaluation and Assessment in Software Engineering (EASE), Committee Member in AI Models / Data track, 2025"},
-        { text: "The International Conference on Collaborative Advances in Software and Computing (CASCON), Committee Member in Artifacts track, 2025" },
-        { text: "The International Conference on Technical Debt (TechDebt), Committee Member in Technical Papers track, 2026" },
         { text: "The International Workshop on Fairness in Software Systems (Fairness), Journal-First Co-Chair, 2026" },
+        { text: "The International Conference on Technical Debt (TechDebt), Committee Member in Technical Papers track, 2026" },
+        { text: "The International Conference on Collaborative Advances in Software and Computing (CASCON), Committee Member in Artifacts track, 2025" },
+        { text: "The International Conference on Evaluation and Assessment in Software Engineering (EASE), Committee Member in AI Models / Data track, 2025"},
       ],
     },
     {
@@ -66,8 +66,8 @@ export const siteConfig = {
     {
       name: "Volunteering",
       bullets: [
-        { text: "Software Engineering for Machine Learning Applications Symposium (SEMLA), 2024"},
         { text: "The IEEE/ACM International Conference on Software Engineering (ICSE), 2025" }
+        { text: "Software Engineering for Machine Learning Applications Symposium (SEMLA), 2024"},
       ]
     },
     {
