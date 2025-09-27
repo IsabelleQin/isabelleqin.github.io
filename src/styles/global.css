@@ -12,3 +12,34 @@ body {
 .pulse-text {
   animation: pulse-text 2s ease-in-out infinite;
 }
+
+.eye-container {
+  display: flex;
+  gap: 1rem;
+}
+
+.eye {
+  width: 50px;
+  height: 50px;
+  background: white;
+  border: 3px solid black;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+}
+
+.pupil {
+  width: 20px;
+  height: 20px;
+  background: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  transition: transform 0.1s;
+}
+
+/* Optional: animate pupils to follow mouse */
+body:hover .pupil {
+  transform: translate(5px, 5px);
+}
