@@ -131,13 +131,60 @@ import { siteConfig } from "../config";
   </svg>
   <div class="h-full mx-auto p-8 sm:p-12 md:p-24 flex items-center">
     <div>
-      <div class="flex justify-center mb-4">
-        <div class="eye"><div class="pupil"></div></div>
-        <div class="eye"><div class="pupil"></div></div>
+              <div class="flex justify-center mb-4">
+          <div class="eye"><div class="pupil"></div></div>
+          <div class="eye"><div class="pupil"></div></div>
+        </div>
+        <h2 class="text-pretty text-xl sm:text-2xl md:text-5xl font-bold tracking-tight text-gray-700 pulse-text">
+          Félicitations! You found me!
+        </h2>
       </div>
-      <h2 class="text-pretty text-xl sm:text-2xl md:text-5xl font-bold tracking-tight text-gray-700 pulse-text">
-        Félicitations! You found me!
-      </h2>
+      
+      <style>
+      .eye {
+        width: 2rem;
+        height: 2rem;
+        background: white;
+        border: 3px solid black;
+        border-radius: 50%;
+        position: relative;
+        overflow: hidden;
+        margin: 0 0.5rem;
+      }
+      
+      .pupil {
+        width: 0.8rem;
+        height: 0.8rem;
+        background: black;
+        border-radius: 50%;
+        position: absolute;
+        top: 0.6rem;
+        left: 0.6rem;
+        transition: transform 0.1s;
+      }
+      </style>
+      
+      <script>
+      if (typeof window !== 'undefined') {
+        window.addEventListener("mousemove", (e) => {
+          const eyes = document.querySelectorAll(".eye");
+          eyes.forEach((eye) => {
+            const pupil = eye.querySelector(".pupil");
+            const rect = eye.getBoundingClientRect();
+            const eyeCenterX = rect.left + rect.width / 2;
+            const eyeCenterY = rect.top + rect.height / 2;
+      
+            const deltaX = e.clientX - eyeCenterX;
+            const deltaY = e.clientY - eyeCenterY;
+      
+            const distance = Math.min(8, Math.sqrt(deltaX**2 + deltaY**2));
+            const angle = Math.atan2(deltaY, deltaX);
+      
+            pupil.style.transform = `translate(${Math.cos(angle) * distance}px, ${Math.sin(angle) * distance}px)`;
+          });
+        });
+      }
+      </script>
       <h1
         class="mt-6 sm:mt-8 md:mt-10 text-pretty text-xl sm:text-2xl md:text-4xl font-bold tracking-tight text-gray-800 animate-fade-in animation-delay-200"
       >
