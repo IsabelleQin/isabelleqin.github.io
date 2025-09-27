@@ -13,33 +13,43 @@ body {
   animation: pulse-text 2s ease-in-out infinite;
 }
 
-.eye-container {
-  display: flex;
-  gap: 1rem;
-}
-
 .eye {
-  width: 50px;
-  height: 50px;
+  width: 2rem;         /* adjust size */
+  height: 2rem;
   background: white;
   border: 3px solid black;
   border-radius: 50%;
   position: relative;
   overflow: hidden;
+  margin: 0 0.5rem;   /* spacing between eyes */
 }
 
 .pupil {
-  width: 20px;
-  height: 20px;
+  width: 0.8rem;
+  height: 0.8rem;
   background: black;
   border-radius: 50%;
   position: absolute;
-  top: 15px;
-  left: 15px;
+  top: 0.6rem;        /* initial position in eye */
+  left: 0.6rem;
   transition: transform 0.1s;
 }
 
-/* Optional: animate pupils to follow mouse */
-body:hover .pupil {
-  transform: translate(5px, 5px);
-}
+/* Optional: pupils follow mouse */
+body.addEventListener?.("mousemove", (e) => {
+  const eyes = document.querySelectorAll(".eye");
+  eyes.forEach((eye) => {
+    const pupil = eye.querySelector(".pupil");
+    const rect = eye.getBoundingClientRect();
+    const eyeCenterX = rect.left + rect.width / 2;
+    const eyeCenterY = rect.top + rect.height / 2;
+
+    const deltaX = e.clientX - eyeCenterX;
+    const deltaY = e.clientY - eyeCenterY;
+
+    const distance = Math.min(8, Math.sqrt(deltaX**2 + deltaY**2)); 
+    const angle = Math.atan2(deltaY, deltaX);
+
+    pupil.style.transform = `translate(${Math.cos(angle) * distance}px, ${Math.sin(angle) * distance}px)`;
+  });
+});
