@@ -129,16 +129,14 @@ import { siteConfig } from "../config";
       height="100%"
       stroke-width={0}></rect>
   </svg>
-  <div class="h-full mx-auto p-8 sm:p-12 md:p-24 flex items-center">
-    <div>
-              <div class="flex justify-center mb-4">
-          <div class="eye"><div class="pupil"></div></div>
-          <div class="eye"><div class="pupil"></div></div>
-        </div>
-        <h2 class="text-pretty text-xl sm:text-2xl md:text-5xl font-bold tracking-tight text-gray-700 pulse-text">
-          Félicitations! You found me!
-        </h2>
+  <div class="h-full mx-auto p-8 sm:p-12 md:p-24 flex flex-col md:flex-row items-center gap-8">
+      <div class="flex justify-center mb-4">
+        <div class="eye"><div class="pupil"></div></div>
+        <div class="eye"><div class="pupil"></div></div>
       </div>
+      <h2 class="text-pretty text-xl sm:text-2xl md:text-5xl font-bold tracking-tight text-gray-700 pulse-text">
+        Félicitations! You found me!
+      </h2>
       
       <style>
       .eye {
