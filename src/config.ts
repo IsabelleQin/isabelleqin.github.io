@@ -16,7 +16,8 @@ export const siteConfig = {
     {
       title: "2025",
       bullets: [
-        {text: "Q. Qin and E. Merlo, “Prune Bias From the Root: Bias Removal and Fairness Estimation by Pruning Sensitive Attributes in Pre-trained DNN Models,” Information and Software Technology (IST) (accepted), vol 188, 2025. ", },
+        {text: "Q. Qin and E. Merlo, “Prune Bias From the Root: Bias Removal and Fairness Estimation by Pruning Sensitive Attributes in Pre-trained DNN Models,” Information and Software Technology (IST) (accepted), vol 188, 2025. ", 
+         link: "https://www.sciencedirect.com/science/article/pii/S0950584925002459"},
         {text: "Q. Qin, B. Dijan, E. Merlo, H. Li, and S. Gambs, Representation-Based Fairness Evaluation and Bias Correction Robustness Assessment in Neural Networks,” Information and Software Technology (IST) (accepted), vol 188, 2025.", 
          link: "https://www.sciencedirect.com/science/article/pii/S0950584925002150" },
         {text: "Q. Qin, H. Li, E. Merlo, and M. Lamothe, “Automated, Unsupervised, and Auto-parameterized Inference of Data Patterns and Anomaly Detection,” in Proceedings of the 47th International Conference on Software Engineering (ICSE) (accepted), 2025.", 
