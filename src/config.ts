@@ -9,7 +9,9 @@ export const siteConfig = {
     github: "https://github.com/IsabelleQin",
   },
   aboutMe:
-    "I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. My research interests include log analysis, AI fairness, and AI explainability. Basically, I do all sorts of research as long as they are beneficial to the software engineering community:-)\nI also train for bodybuilding and powerlifting. Currently I am trying to understand how to play POE (crafting is really complex:-().",
+    `I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. 
+    My current research interests include data engineering, log analysis, AI fairness, and AI explainability. So far, I still prefer statistic-based solutions for tasks in these fields over LLM-based approaches. 
+    TMI: I train for bodybuilding, and I am currently a member of the UdeM dragonboat team; my current deadlift PR is 265 (with straps). My favorite Pokémon are Clogsire and Quagsire, and then Dragonite and Riolu.`,
   misc: [{ name: "Visit Our Lab", link: "https://moose.polymtl.ca/" },
         { name: "My Google Scholar", link: "https://scholar.google.com/citations?user=hzQSPFUAAAAJ&hl=en" }],
   experience: [
