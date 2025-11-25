@@ -60,6 +60,8 @@ export const siteConfig = {
     {
       name: "Journal Reviewer",
       bullets: [
+        { text: "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+        link: "https://dl.acm.org/journal/tosem"},
         { text: "IEEE Transactions on Software Engineering (TSE)",
         link: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32"},
         { text: "Information and Software Technology (IST)", 
@@ -91,7 +93,7 @@ export const siteConfig = {
     },
     {
       school: "Southeast University, Nanjing, China",
-      degree: "Bachelor of Engineering in Artificial Intelligence",
+      degree: "BEng in Artificial Intelligence",
       dateRange: "2019 - 2023",
       achievements: [
       ],
