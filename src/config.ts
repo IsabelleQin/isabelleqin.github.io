@@ -35,7 +35,7 @@ export const siteConfig = {
       bullets: [
         {text: "R. Aghili, Q. Qin, H. Li, and F. Khomh, “Understanding Web Application Workloads and Their Applications: Systematic Literature Review and Characterization,” in Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME) (accepted), 2024, pp. 474–486. ", 
          link: "https://ieeexplore.ieee.org/abstract/document/10795077" },
-        {text: "Q. Qin, H. Li, E. Merlo, “Wrangling Data Issues to be Wran- gled: Literature Review, Taxonomy, and Industry Case Study,” arXiv preprint, 2024.", 
+        {text: "Q. Qin, H. Li, E. Merlo, “Wrangling Data Issues to be Wrangled: Literature Review, Taxonomy, and Industry Case Study,” arXiv preprint, 2024.", 
          link: "https://arxiv.org/abs/2405.16033" },
         ],
     },
