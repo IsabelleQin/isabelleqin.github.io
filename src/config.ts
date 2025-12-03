@@ -19,7 +19,7 @@ export const siteConfig = {
       title: "2026",
       bullets: [
         {text: 'Q. Qin, R. Spínola, and R. de Souza Santos, “On the Role and Impact of GenAI Tools in Software Engineering Education,” in Proceedings of the 48th International Conference on Software Engineering, Software Engineering Education and Training (ICSE-SEET) track, 2026.'},
-        {text: 'Q. Qin and E. Merlo, "Prune Bias From the Root: Bias Removal and Fairness Estimation by Pruning Sensitive Attributes in Pre-trained DNN Models," Information and Software Technology (IST), vol 188, 2025. ', 
+        {text: 'Q. Qin and E. Merlo, "Prune Bias From the Root: Bias Removal and Fairness Estimation by Pruning Sensitive Attributes in Pre-trained DNN Models," Information and Software Technology (IST), vol 188, 2026. ', 
          link: "https://www.sciencedirect.com/science/article/pii/S0950584925002459"},
         ],
     },
