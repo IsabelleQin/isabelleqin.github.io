@@ -32,7 +32,7 @@ export const siteConfig = {
          link: "https://arxiv.org/abs/2412.05240" },
         {text: 'Q. Qin, R. Aghili, H. Li, and E. Merlo, "Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework," in Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), research track, 2025.', 
          link: "https://arxiv.org/abs/2412.05254" },
-        {text: 'G. Caumartin, Q. Qin, S. Chatragadda, J. Panjrolia, H. Li, and D. Costa, "Exploring the Potential of Llama Models in Automated Code Refinement: A Replication Study," in Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), research track, 2025.', 
+        {text: 'G. Caumartin, Q. Qin, S. Chatragadda, J. Panjrolia, H. Li, and D. E. Costa, "Exploring the Potential of Llama Models in Automated Code Refinement: A Replication Study," in Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), research track, 2025.', 
          link: "https://arxiv.org/abs/2412.02789" },
         ],
     },
