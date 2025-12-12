@@ -11,14 +11,16 @@ export const siteConfig = {
   aboutMe:
     `I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. 
     My current research interests include data engineering, log analysis, AI fairness, and AI explainability. So far, I still prefer statistic-based solutions for tasks in these fields over LLM-based approaches. 
-    TMI: I train for bodybuilding, and I am currently a member of the UdeM dragonboat team; my current deadlift PR is 265 (with straps). My favorite Pokémon are Clogsire and Quagsire, and then Dragonite and Riolu.`,
+    TMI: I train for bodybuilding, and I am currently a member of the UdeM dragonboat team; my current deadlift PR is 275 (updated: 2025.12.11). My favorite Pokémon are Clogsire and Quagsire, and then Dragonite and Riolu.`,
   misc: [{ name: "Visit Our Lab", link: "https://moose.polymtl.ca/" },
         { name: "My Google Scholar", link: "https://scholar.google.com/citations?user=hzQSPFUAAAAJ&hl=en" }],
   experience: [
     {
       title: "2026",
       bullets: [
-        {text: 'Q. Qin, R. Spínola, and R. de Souza Santos, “On the Role and Impact of GenAI Tools in Software Engineering Education,” in Proceedings of the 48th International Conference on Software Engineering, Software Engineering Education and Training (ICSE-SEET) track, 2026.'},
+        {text: 'Q. Qin, J. Zhao, H. Li, W. Shang, and E. Merlo, “A Story About Cohesion and Separation: Label-Free Metric for Log Parser Evaluation,” in Proceedings of the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Research Papers track, 2026.'},
+        {text: 'Q. Qin, R. Spínola, and R. de Souza Santos, “On the Role and Impact of GenAI Tools in Software Engineering Education,” in Proceedings of the 48th International Conference on Software Engineering, Software Engineering Education and Training (ICSE-SEET) track, 2026.',
+         link: "https://arxiv.org/abs/2512.04256"},
         {text: 'Q. Qin and E. Merlo, "Prune Bias From the Root: Bias Removal and Fairness Estimation by Pruning Sensitive Attributes in Pre-trained DNN Models," Information and Software Technology (IST), vol 188, 2026. ', 
          link: "https://www.sciencedirect.com/science/article/pii/S0950584925002459"},
         ],
