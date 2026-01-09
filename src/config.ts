@@ -10,8 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     `I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. 
-    My current research interests include data engineering, log analysis, AI fairness, and AI explainability. So far, I still prefer statistic-based solutions for tasks in these fields over LLM-based approaches. 
-    TMI: I train for bodybuilding, and I am currently a member of the UdeM dragonboat team; my current deadlift PR is 275 (updated: 2025.12.11). My favorite Pokémon are Clogsire and Quagsire, and then Dragonite and Riolu.`,
+    My current research interests include data engineering, log analysis, AI fairness, and AI explainability. So far, I still prefer statistic-based solutions for tasks in these fields over LLM-based approaches. `,
   misc: [{ name: "Visit Our Lab", link: "https://moose.polymtl.ca/" },
         { name: "My Google Scholar", link: "https://scholar.google.com/citations?user=hzQSPFUAAAAJ&hl=en" }],
   experience: [
@@ -107,6 +106,24 @@ export const siteConfig = {
       degree: "B.Eng. in Artificial Intelligence",
       dateRange: "2019 - 2023",
       achievements: [
+      ],
+    },
+  ],
+  random: [
+    {
+      name: "Sports",
+      bullets: [
+        { text: "I train for bodybuilding, and I am currently a member of the UdeM dragonboat team. "},
+        { text: "My current deadlift PR is 275 (updated: 2025.12.11)." }
+      ]
+    },
+    {
+      name: "Path of Exile 2 Builds",
+      bullets: [
+        { text: "I am a cheap witch builder (no time to mine currencies) that stuggle with the visual clusters of minion builds. :-< As a result, I am trying to discover the upper bound of chaos-damage-core builds. Please leave your thoughts if you have comments on my existing builds." },
+        { text: "Debuff stacker: chaos core lightning/chill/freeze side-buff Lich",
+        link: "https://maxroll.gg/poe2/planner/z62t60pl "},
+        { text: "(TODO) Bleed out: chaos+poison+bleed Blood Mage" },
       ],
     },
   ],
