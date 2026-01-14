@@ -17,26 +17,27 @@ export const siteConfig = {
     {
       title: "2026",
       bullets: [
-        {text: 'Q. Qin, H. Li, and E. Merlo, "Unsupervised, Robust, and Lightweight Detection of Data Pattern Anomalies and Outliers," Information and Software Technology (IST), 2026. '},
+        {text: 'Q. Qin, H. Li, and E. Merlo, "Unsupervised, Robust, and Lightweight Detection of Data Pattern Anomalies and Outliers," Information and Software Technology (IST), vol. 192, 2026. ',
+        link: "https://www.sciencedirect.com/science/article/pii/S0950584926000248"},
         {text: 'Q. Qin, J. Zhao, H. Li, W. Shang, and E. Merlo, "A Story About Cohesion and Separation: Label-Free Metric for Log Parser Evaluation," in Proceedings of the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Research Papers track, 2026.',
         link: "https://www.arxiv.org/abs/2512.21811"},
         {text: 'Q. Qin, R. Spínola, and R. de Souza Santos, "On the Role and Impact of GenAI Tools in Software Engineering Education," in Proceedings of the 48th International Conference on Software Engineering, Software Engineering Education and Training (ICSE-SEET) track, 2026.',
          link: "https://arxiv.org/abs/2512.04256"},
-        {text: 'Q. Qin and E. Merlo, "Prune Bias From the Root: Bias Removal and Fairness Estimation by Pruning Sensitive Attributes in Pre-trained DNN Models," Information and Software Technology (IST), vol 188, 2026. ', 
+        {text: 'Q. Qin and E. Merlo, "Prune Bias From the Root: Bias Removal and Fairness Estimation by Pruning Sensitive Attributes in Pre-trained DNN Models," Information and Software Technology (IST), vol. 188, 2026. ', 
          link: "https://www.sciencedirect.com/science/article/pii/S0950584925002459"},
         ],
     },
     {
       title: "2025",
       bullets: [
-        {text: 'Q. Qin, B. Dijan, E. Merlo, H. Li, and S. Gambs, "Representation-Based Fairness Evaluation and Bias Correction Robustness Assessment in Neural Networks," Information and Software Technology (IST), vol 188, 2025.', 
+        {text: 'Q. Qin, B. Dijan, E. Merlo, H. Li, and S. Gambs, "Representation-Based Fairness Evaluation and Bias Correction Robustness Assessment in Neural Networks," Information and Software Technology (IST), vol. 188, 2025.', 
          link: "https://www.sciencedirect.com/science/article/pii/S0950584925002150" },
         {text: 'Q. Qin, H. Li, E. Merlo, and M. Lamothe, "Automated, Unsupervised, and Auto-parameterized Inference of Data Patterns and Anomaly Detection," in Proceedings of the 47th International Conference on Software Engineering (ICSE), research track, 2025.', 
-         link: "https://arxiv.org/abs/2412.05240" },
+         link: "https://ieeexplore.ieee.org/document/11029754" },
         {text: 'Q. Qin, R. Aghili, H. Li, and E. Merlo, "Preprocessing is All You Need: Boosting the Performance of Log Parsers With a General Preprocessing Framework," in Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), research track, 2025.', 
-         link: "https://arxiv.org/abs/2412.05254" },
+         link: "https://ieeexplore.ieee.org/document/10992545" },
         {text: 'G. Caumartin, Q. Qin, S. Chatragadda, J. Panjrolia, H. Li, and D. E. Costa, "Exploring the Potential of Llama Models in Automated Code Refinement: A Replication Study," in Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), research track, 2025.', 
-         link: "https://arxiv.org/abs/2412.02789" },
+         link: "https://ieeexplore.ieee.org/document/10992366" },
         ],
     },
     {
