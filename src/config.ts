@@ -17,7 +17,7 @@ export const siteConfig = {
     {
       title: "2026",
       bullets: [
-        {text: 'Q. Qin, H. Li, and E. Merlo, "Unsupervised, Robust, and Lightweight Detection of Data Pattern Anomalies and Outliers," Information and Software Technology (IST), 2026. '}
+        {text: 'Q. Qin, H. Li, and E. Merlo, "Unsupervised, Robust, and Lightweight Detection of Data Pattern Anomalies and Outliers," Information and Software Technology (IST), 2026. '},
         {text: 'Q. Qin, J. Zhao, H. Li, W. Shang, and E. Merlo, "A Story About Cohesion and Separation: Label-Free Metric for Log Parser Evaluation," in Proceedings of the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Research Papers track, 2026.',
         link: "https://www.arxiv.org/abs/2512.21811"},
         {text: 'Q. Qin, R. Spínola, and R. de Souza Santos, "On the Role and Impact of GenAI Tools in Software Engineering Education," in Proceedings of the 48th International Conference on Software Engineering, Software Engineering Education and Training (ICSE-SEET) track, 2026.',
