@@ -123,8 +123,8 @@ export const siteConfig = {
     {
       name: "Path of Exile 2 Builds",
       bullets: [
-        { text: "I am a cheap witch builder (no time to mine currencies) who stuggle with the visual clutter of minion builds. :-< As a result, I am trying to discover the upper bound of chaos-damage-core builds. Please leave your thoughts if you have comments on my existing builds." },
-        { text: "Debuff stacker: chaos core lightning/chill/freeze side-buff Lich",
+        { text: "I am a cheap witch builder (no time to mine currencies) who stuggle with the visual clutter of minion builds. :-< I am trying to discover the upper bound of chaos-damage-core builds. Please leave your thoughts if you have comments on my existing builds." },
+        { text: "Debuff stacker: hybrid chaos+lightning Lich",
         link: "https://maxroll.gg/poe2/planner/z62t60pl "},
         { text: "(TODO) Bleed out: chaos+poison+bleed Blood Mage" },
       ],
