@@ -61,6 +61,7 @@ export const siteConfig = {
     {
       name: "Program Committee Member",
       bullets: [
+        { text: "The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Reproducibility Studies and Negative Results (RENE) Track Co-Chair, 2027" },
         { text: "The International Conference on Evaluation and Assessment in Software Engineering (EASE), Local Arrangements Co-Chair, AI Models / Data Track Co-Chair, 2027" },
         { text: "The International Workshop on Load Testing and Benchmarking of Software Systems (LTB), Committee Member, 2026" },
         { text: "The International Workshop on Fairness in Software Systems (Fairness), Journal-First Co-Chair, 2026" },
