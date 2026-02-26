@@ -79,7 +79,9 @@ export const siteConfig = {
         { text: "IEEE Transactions on Software Engineering (TSE)",
         link: "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32"},
         { text: "Information and Software Technology (IST)", 
-        link: "https://www.sciencedirect.com/journal/information-and-software-technology"}
+        link: "https://www.sciencedirect.com/journal/information-and-software-technology"},
+        { text: "Knowledge-Based Systems (KBS)", 
+        link: "https://www.sciencedirect.com/journal/knowledge-based-systems"}
       ]
     },
     {
