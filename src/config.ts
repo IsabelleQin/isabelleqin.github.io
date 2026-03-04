@@ -120,7 +120,7 @@ export const siteConfig = {
       name: "Sports",
       bullets: [
         { text: "I train for bodybuilding, and I am currently a member of the UdeM dragonboat team. "},
-        { text: "My current deadlift PR is 275 (updated: 2025.12.11)." }
+        { text: "My current bare-hand deadlift PR is 295lbs (updated: 2026.03.04)." }
       ]
     },
     {
