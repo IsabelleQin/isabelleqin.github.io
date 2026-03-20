@@ -81,7 +81,9 @@ export const siteConfig = {
         { text: "Information and Software Technology (IST)", 
         link: "https://www.sciencedirect.com/journal/information-and-software-technology"},
         { text: "Knowledge-Based Systems (KBS)", 
-        link: "https://www.sciencedirect.com/journal/knowledge-based-systems"}
+        link: "https://www.sciencedirect.com/journal/knowledge-based-systems"},
+        { text: "Information Processing and Management (IPM)", 
+        link: "https://www.sciencedirect.com/journal/information-processing-and-management"}
       ]
     },
     {
