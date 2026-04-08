@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     `I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. 
-    My current research interests include data engineering, log analysis, AI fairness, and AI explainability. So far, I still prefer statistic-based solutions for tasks in these fields over LLM-based approaches. `,
+    My current research interests include log analysis, binary code analysis, and AI fairness. I believe that rule-based methods are the past, the present, and the future:)`,
   misc: [{ name: "Visit Our Lab", link: "https://moose.polymtl.ca/" },
         { name: "My Google Scholar", link: "https://scholar.google.com/citations?user=hzQSPFUAAAAJ&hl=en" }],
   experience: [
