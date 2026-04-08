@@ -100,6 +100,12 @@ export const siteConfig = {
         { text: "Intel Joint Research Institute on Intelligent Edge Computing, Computer Vision Algorithm Engineer Intern (Aug. 2022 – Apr. 2023)" }
       ]
     },
+    {
+      name: "Invited Talks",
+      bullets: [
+        { text: '"I Can’t Trust You Until I Understand You: Enhancing Transparency in AI-based Systems" at Virginia Commonwealth University (2026-03-05)'},
+      ]
+    },
   ],
   education: [
     {
