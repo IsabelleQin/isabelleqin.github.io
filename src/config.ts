@@ -18,7 +18,7 @@ export const siteConfig = {
       title: "2026",
       bullets: [
         {text: 'Q. Qin, X. Wu, H. Li, and E. Merlo, "Plug it and Play on Logs: A Configuration-Free Statistic-Based Log Parser," Empirical Software Engineering (EMSE), 2026. ',
-        }
+        },
         {text: 'Q. Qin, H. Li, and E. Merlo, "Unsupervised, Robust, and Lightweight Detection of Data Pattern Anomalies and Outliers," Information and Software Technology (IST), vol. 192, 2026. ',
         link: "https://www.sciencedirect.com/science/article/pii/S0950584926000248"},
         {text: 'Q. Qin, J. Zhao, H. Li, W. Shang, and E. Merlo, "A Story About Cohesion and Separation: Label-Free Metric for Log Parser Evaluation," in Proceedings of the 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Research Papers track, 2026.',
