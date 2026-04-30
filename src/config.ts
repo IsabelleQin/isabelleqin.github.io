@@ -129,14 +129,15 @@ export const siteConfig = {
     {
       name: "Sports",
       bullets: [
-        { text: "I train for bodybuilding, and I am currently a member of the UdeM dragonboat team. "},
-        { text: "My current bare-hand deadlift PR is 295lbs (updated: 2026.03.04)." }
+        { text: "I am currently serving the UdeM dragonboat S-tier team. Let's go UdeM!"},
+        { text: "I have been training for bodybuilding for 3 years, and my final goal is to get a WNBF Pro card... :)"},
+        { text: "My bare-hand deadlift PR is 295lbs (updated: 2026.03.04)." }
       ]
     },
     {
       name: "Path of Exile 2 Builds",
       bullets: [
-        { text: "I am a cheap witch builder (no time to mine currencies) who stuggle with the visual clutter of minion builds. :-< I am trying to discover the upper bound of chaos-damage-core builds. Please leave your thoughts if you have comments on my existing builds." },
+        { text: "I am a cheap witch builder (no time to mine currencies) who struggles with the visual clutter of minion builds. :-< I am trying to discover the upper bound of chaos-damage-core builds. Please leave your thoughts if you have comments on my existing builds." },
         { text: "Debuff stacker: hybrid chaos+lightning Lich",
         link: "https://maxroll.gg/poe2/planner/z62t60pl "},
         { text: "(TODO) Bleed out: chaos+poison+bleed Blood Mage" },
