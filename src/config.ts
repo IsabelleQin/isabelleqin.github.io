@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "Qiaolin (Isabelle) Qin",
   title: "Ph.D. student at Polytechnique Montreal",
-  description: "Isablle's main page",
+  description: "Isabelle's main page",
   accentColor: "#f576d5",
   social: {
     email: "qiaolin.qin@etud.polymtl.ca",
@@ -56,6 +56,7 @@ export const siteConfig = {
     {
       name: "Teaching",
       bullets: [
+        { text: "Lecturer for LOG6309E: Intelligent DevOps of Large-Scale Software Systems (2026 Fall)"},
         { text: "Lecturer for LOG8371E: Software Quality Engineering (2025 Fall)"},
         { text: "Teaching Assistant for LOG6305: Techniques avancées de test du logiciel (2025 Winter)" }
       ]
