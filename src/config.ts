@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/IsabelleQin",
   },
   aboutMe:
-    `I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. 
+    `🎉🎉I AM GRADUATING THIS FALL!!🥳🥳 I am a third-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. 
     My current research interests include log analysis, binary code analysis, and AI fairness. I believe that rule-based methods are the past, the present, and the future:)`,
   misc: [{ name: "Visit Our Lab", link: "https://moose.polymtl.ca/" },
         { name: "My Google Scholar", link: "https://scholar.google.com/citations?user=hzQSPFUAAAAJ&hl=en" }],
