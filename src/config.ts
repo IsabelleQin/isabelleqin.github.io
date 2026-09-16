@@ -130,6 +130,15 @@ export const siteConfig = {
   ],
   random: [
     {
+      name: "Side Quests",
+      bullets: [
+        { 
+        text: "Pickle-to-Python converter that generates executable code. ",
+        link: "https://github.com/IsabelleQin/Transparent-Pickle2Python-Converter"
+        },
+      ]
+    }
+    {
       name: "Sports",
       bullets: [
         { text: "I am currently serving the UdeM dragonboat S-tier team. Let's go UdeM!"},
