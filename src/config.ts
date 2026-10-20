@@ -4,7 +4,7 @@ export const siteConfig = {
   description: "Isabelle's main page",
   accentColor: "#f576d5",
   social: {
-    email: "qiaolin.qin@etud.polymtl.ca",
+    email: "qqin2@uottawa.ca",
     linkedin: "https://www.linkedin.com/in/isabelleqin1213/",
     github: "https://github.com/IsabelleQin",
   },
@@ -137,7 +137,7 @@ export const siteConfig = {
         link: "https://github.com/IsabelleQin/Transparent-Pickle2Python-Converter"
         },
       ]
-    }
+    },
     {
       name: "Sports",
       bullets: [
