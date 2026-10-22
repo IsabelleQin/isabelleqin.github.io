@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Qiaolin (Isabelle) Qin",
-  title: "Ph.D. student at Polytechnique Montreal",
+  title: "PhD in Software Engineering",
   description: "Isabelle's main page",
   accentColor: "#f576d5",
   social: {
@@ -9,7 +9,8 @@ export const siteConfig = {
     github: "https://github.com/IsabelleQin",
   },
   aboutMe:
-    `🎉🎉I am joining UOttawa as a postdoc fellow in November!!🥳🥳 I am a fourth-year Ph.D. student at Polytechnique Montreal, supervised by Professor Heng Li and Professor Ettore Merlo. Before joining PolyMTL, I obtained my bachelor's degree from Southeast University. 
+    `🎉🎉I am joining UOttawa as a postdoc fellow in November!!🥳🥳 I finished my PhD degree in Software Engineering at Polytechnique Montreal in 2026, under the supervision of Professor Heng Li and Professor Ettore Merlo. 
+    Before joining PolyMTL, I obtained my bachelor's degree from Southeast University in 2023. 
     My current research interests include log analysis, binary code analysis, and AI fairness. I believe that rule-based methods are the past, the present, and the future:)`,
   misc: [{ name: "Visit Our Lab", link: "https://moose.polymtl.ca/" },
         { name: "My Google Scholar", link: "https://scholar.google.com/citations?user=hzQSPFUAAAAJ&hl=en" }],
