@@ -117,7 +117,7 @@ export const siteConfig = {
     {
       school: "Polytechnique Montreal, Montreal, Canada",
       degree: "Ph.D. in Software Engineering",
-      dateRange: "2023 - ",
+      dateRange: "2023 - 2026",
       achievements: [
       ],
     },
@@ -142,7 +142,7 @@ export const siteConfig = {
     {
       name: "Sports",
       bullets: [
-        { text: "I am currently serving the UdeM dragonboat S-tier team. Let's go UdeM!"},
+        { text: "I was in the UdeM dragonboat S-tier team (2025-2026). Let's go UdeM!"},
         { text: "I have been training for bodybuilding for 3 years, and my final goal is to get a WNBF Pro card... :)"},
         { text: "My bare-hand deadlift PR is 295lbs (updated: 2026.03.04)." }
       ]
